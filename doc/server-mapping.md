@@ -92,6 +92,7 @@
 | [pyright](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#pyright) | [pyright](https://github.com/williamboman/mason.nvim/blob/main/PACKAGES.md#pyright) |
 | [quick_lint_js](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#quick_lint_js) | [quick-lint-js](https://github.com/williamboman/mason.nvim/blob/main/PACKAGES.md#quick-lint-js) |
 | [r_language_server](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#r_language_server) | [r-languageserver](https://github.com/williamboman/mason.nvim/blob/main/PACKAGES.md#r-languageserver) |
+| [racket_langserver](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#racket_langserver) | [racket-langserver](https://github.com/williamboman/mason.nvim/blob/main/PACKAGES.md#racket-langserver) |
 | [raku_navigator](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#raku_navigator) | [raku-navigator](https://github.com/williamboman/mason.nvim/blob/main/PACKAGES.md#raku-navigator) |
 | [reason_ls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#reason_ls) | [reason-language-server](https://github.com/williamboman/mason.nvim/blob/main/PACKAGES.md#reason-language-server) |
 | [remark_ls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/server_configurations.md#remark_ls) | [remark-language-server](https://github.com/williamboman/mason.nvim/blob/main/PACKAGES.md#remark-language-server) |

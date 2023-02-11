@@ -251,6 +251,7 @@ local DEFAULT_SETTINGS = {
 | Python [(docs)][pylsp]              | `pylsp`                    |
 | Python                              | `ruff_lsp`                 |
 | R                                   | `r_language_server`        |
+| Racket                              | `racket_langserver`        |
 | Raku                                | `raku_navigator`           |
 | ReScript                            | `rescriptls`               |
 | Reason                              | `reason_ls`                |
