@@ -95,6 +95,7 @@ pyre                          pyre
 pyright                       pyright
 quick-lint-js                 quick_lint_js
 r-languageserver              r_language_server
+racket-langserver             racket_langserver
 raku-navigator                raku_navigator
 reason-language-server        reason_ls
 remark-language-server        remark_ls
